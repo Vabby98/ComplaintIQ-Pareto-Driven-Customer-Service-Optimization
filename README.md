@@ -39,9 +39,3 @@ Customer service efficiency is critical in e-commerce—rising complaint volumes
 - **Data Cleaning and Grouping Techniques**  
 
 ---
-
-## 🚀 Getting Started
-
-### Requirements
-```bash
-pip install -r requirements.txt
